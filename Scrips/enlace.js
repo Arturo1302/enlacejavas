@@ -1,5 +1,5 @@
 function menu() {
-    respuesta = prompt("\n=== MENÚ DE API ===\n 1. Personajes\n 2. Caracteristica\n Elige una opción:")
+    //respuesta = prompt("\n=== MENÚ DE API ===\n 1. Personajes\n 2. Caracteristica\n Elige una opción:")
 
     switch (respuesta) {
         case "1":
